@@ -12,5 +12,6 @@ Contact Me: juanxi-xue@icloud.com
 ### Technologies and Tools
 
 ### My Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnysiit&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnysiit&count_private=true&show_icons=true&theme=buefy)
 )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnysiit)]
