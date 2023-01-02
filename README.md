@@ -15,3 +15,4 @@ Contact Me: juanxi-xue@icloud.com
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnysiit&count_private=true&show_icons=true&theme=buefy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnysiit&count_private=true&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/johnnysiit/CTA_Ridership_Analysis)
