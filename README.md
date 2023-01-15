@@ -38,6 +38,6 @@ Contact Me: juanxi-xue@icloud.com
 <a><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 
 ### My Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnysiit&count_private=true&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnysiit&show_icons=true&theme=buefy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnysiit&show_icons=true&theme=buefy)
