@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a senior Business Analysis and Information Systems major student at the University of Iowa Tippie College of Business
+I am a senior Business Analysis and Information Systems student at the University of Iowa Tippie College of Business
 
 My technical skills include Python, SQL, R, Tableau, Excel, and Linux Command. 
 I have a passion for technology, particularly in the areas of AI, GPT3, data mining, and process automations. 
